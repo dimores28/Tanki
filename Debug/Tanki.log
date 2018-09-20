@@ -1,0 +1,8 @@
+﻿  main.cpp
+  Hero.cpp
+  Game.cpp
+e:\project_cpp\tanki\tanki\game.cpp(61): warning C4129: M: неизвестная escape-последовательность
+  Enemy.cpp
+  Создание кода...
+  Tanki.vcxproj -> E:\project_cpp\Tanki\Debug\Tanki.exe
+  Tanki.vcxproj -> E:\project_cpp\Tanki\Debug\Tanki.pdb (Full PDB)
